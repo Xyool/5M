@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10000,
   "WEI_COST": 5000000000000000000,
   "DISPLAY_COST": 5,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 5000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/abuddy",
   "SHOW_BACKGROUND": true
